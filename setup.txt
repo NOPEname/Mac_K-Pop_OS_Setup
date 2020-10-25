@@ -92,3 +92,5 @@
         > Add Widget:
             - "Global Menu"
             - "Better Inline Clock"
+
+8. Desktop background: "3840x1080 studio ghibli" ( http://wallpapersimages.info/wp-content/uploads/HTML/London-Multi-Monitor-wallpapers-70.html )
