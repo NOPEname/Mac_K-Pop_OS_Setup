@@ -1,0 +1,94 @@
+1.  (recommended but not mandatory) Get a fresh install of your favourite Linux distro
+     I personally used Pop_OS
+    
+    
+2.  Update packages ("sudo apt update" -> "sudo apt upgrade")
+
+
+3.  Install K-Desktop-Environment ("sudo apt install kde-plasma-desktop")
+
+3.1 Select "sddm"
+
+
+4.  Install Kvantum-Manager ("sudo apt install qt5-style-kvantum")
+
+4.1 Download Kvantum-Theme "WhiteSur Kvantum" (https://store.kde.org/p/1398841/)
+     (do not rename folder!)
+     
+4.2 Open Kvantum-Manager:
+        > Select a Kvantum theme folder:
+            - Select downloaded folder
+            
+        > Chane/Delete Theme:
+            - "Use this theme"
+            
+        > Configure Active Theme:
+            - Blurring for menus and tooltips: ON
+            - Translucent windows: OFF (not consistent across different programs)
+        > Quit
+        
+
+5.  Install Plank ("sudo apt install plank")
+
+5.1 Activate Plank (run program)
+
+5.2 Right-click Plank (between icons):
+        > Preferences:
+            - Appearance:
+                -> Theme: Gtk+
+                -> Icon Size: 48
+                -> Icon Zoom: ON / 120
+            - Behaviour:
+                -> Hide Dock: ON / Intellihide (delay: 0)
+
+
+6.  KDE Settings:
+
+    > Workspace Behaviour:
+        - Desktop Effects:
+            -> Blur [blur strength: medium ; noise strength: low]
+            -> Magic Lamp [400 ms]
+        - Screen Edges & TouchScreen:
+            -> deselect all points on screen
+            
+    > Window Management:
+        - Task Switcher:
+            -> "MediumDefault"
+        - KWin Scripts:
+            -> Force Blur (download)
+            
+    > Global Theme:
+        - WhiteSur-dark (download; might require restart)
+    
+    > Plasma Sytle:
+        - WhiteSur-dark
+        
+    > Application Sytle:
+        - Application Sytle:
+            -> Configure GNOME/GTK Application Style:
+                - Download New GNOME/GTK-3 Appl. Style: "WhiteSur Gtk Theme"
+                - Select "WhiteSur-dark" (twice)
+            -> Select "kvantum-dark"
+        - Window Decorations:
+            -> Theme: "WhiteSur-dark"
+            -> Titlebar Buttons: <as you wish>
+        - Colors:
+            -> select "WhiteSur-dark"
+        - Icons:
+            -> select "WhiteSur-dark"
+        - Cursor:
+            -> Download "McMojave Cursors"
+            
+    > Startup and Shutdown:
+        - Login Screen (SDDM):
+            -> select "WhiteSur"
+        -Autostart:
+            -> Add Program: "Plank"
+        - Splash Screen:
+            -> select "WhiteSur-dark"
+            
+                
+7. Right-click "Taskbar":
+        > Add Widget:
+            - "Global Menu"
+            - "Better Inline Clock"
