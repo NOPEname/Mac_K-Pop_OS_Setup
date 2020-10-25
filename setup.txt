@@ -1,3 +1,7 @@
+Youtube tutorial: https://youtu.be/NhkrfJBB8i0
+
+
+
 1.  (recommended but not mandatory) Get a fresh install of your favourite Linux distro
      I personally used Pop_OS
     
