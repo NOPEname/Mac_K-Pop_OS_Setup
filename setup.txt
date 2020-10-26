@@ -23,7 +23,7 @@ Youtube tutorial: https://youtu.be/NhkrfJBB8i0
         > Select a Kvantum theme folder:
             - Select downloaded folder
             
-        > Chane/Delete Theme:
+        > Change/Delete Theme:
             - "Use this theme"
             
         > Configure Active Theme:
@@ -64,11 +64,11 @@ Youtube tutorial: https://youtu.be/NhkrfJBB8i0
     > Global Theme:
         - WhiteSur-dark (download; might require restart)
     
-    > Plasma Sytle:
+    > Plasma Style:
         - WhiteSur-dark
         
-    > Application Sytle:
-        - Application Sytle:
+    > Application Style:
+        - Application Style:
             -> Configure GNOME/GTK Application Style:
                 - Download New GNOME/GTK-3 Appl. Style: "WhiteSur Gtk Theme"
                 - Select "WhiteSur-dark" (twice)
